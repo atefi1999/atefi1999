@@ -50,7 +50,7 @@ _(more projects will be added soon...)_
 
 ## 📫 Connect with Me
 
-- 🌐 GitHub Profile: https://github.com/atefi1999/
+- 🌐 GitHub Profile: https://atefi1999.github.io/
 - ✉️ Email: a.atefi1999@gmail.com
 - 💼 Telegram: https://t.me/a_atefi1999
 
