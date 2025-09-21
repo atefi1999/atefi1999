@@ -11,14 +11,9 @@
 ## 🔧 Technologies & Tools
 
 - Languages: ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python), ![HTML](https://img.shields.io/badge/HTML-5-orange?logo=html5), ![CSS](https://img.shields.io/badge/CSS-3-blue?logo=css3)
-- Frameworks: ![Flask](https://img.shields.io/badge/Flask-Framework-black?logo=flask), FastAPI 
-- Databases: SQLite, MySQL 
-- Tools: Git, GitHub, VS Code
-
-
-
-![Git](https://img.shields.io/badge/Git-VersionControl-red?logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-CodeHosting-black?logo=github)
+- Frameworks: ![Flask](https://img.shields.io/badge/Flask-Framework-black?logo=flask), ![FastAPI](https://img.shields.io/badge/FastAPI-Framework-blue?logo=fastapi) 
+- Databases: ![SQLite](https://img.shields.io/badge/SQLite-Database-blue?logo=sqlite), ![MySQL](https://img.shields.io/badge/MySQL-Database-blue?logo=mysql) 
+- Tools: ![Git](https://img.shields.io/badge/Git-VersionControl-red?logo=git), ![GitHub](https://img.shields.io/badge/GitHub-CodeHosting-black?logo=github), ![VS Code](https://img.shields.io/badge/VS%20Code-Editor-blue?logo=visual-studio-code)
 
 ---
 
