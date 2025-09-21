@@ -14,6 +14,12 @@
 - Frameworks: Flask, FastAPI 
 - Databases: SQLite, MySQL 
 - Tools: Git, GitHub, VS Code
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![Flask](https://img.shields.io/badge/Flask-Framework-black?logo=flask)
+![HTML](https://img.shields.io/badge/HTML-5-orange?logo=html5)
+![CSS](https://img.shields.io/badge/CSS-3-blue?logo=css3)
+![Git](https://img.shields.io/badge/Git-VersionControl-red?logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-CodeHosting-black?logo=github)
 
 ---
 
